@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[aclGroupListObjects(${1:theGroup})]]></content>
+
+	<tabTrigger>aclGroupListObjects</tabTrigger>
+	<description>aclGroupListObjects Mta:Acl</description>
+	<scope>source.lua</scope>
+	
+</snippet>

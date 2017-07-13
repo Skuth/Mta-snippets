@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[isObjectInACLGroup(${1:theObject}, ${2:theGroup})]]></content>
+
+	<tabTrigger>isObjectInACLGroup</tabTrigger>
+	<description>isObjectInACLGroup Mta:Acl</description>
+	<scope>source.lua</scope>
+	
+</snippet>

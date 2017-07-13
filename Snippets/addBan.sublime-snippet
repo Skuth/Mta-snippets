@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[addBan(${1:IP}, ${2:username}, ${3:serial}, ${4:player}, ${5:reason}, ${6:seconds = 0})]]></content>
+
+	<tabTrigger>addBan</tabTrigger>
+	<description>addBan Mta:Ban</description>
+	<scope>source.lua</scope>
+	
+</snippet>

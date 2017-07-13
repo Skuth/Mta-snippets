@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[getAccountsBySerial(${1:serial})]]></content>
+
+	<tabTrigger>getAccountsBySerial</tabTrigger>
+	<description>getAccountsBySerial Mta:Account</description>
+	<scope>source.lua</scope>
+	
+</snippet>

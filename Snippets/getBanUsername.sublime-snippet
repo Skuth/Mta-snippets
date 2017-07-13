@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[getBanUsername(${1:theBan}) -- deprecated use getBanNick]]></content>
+
+	<tabTrigger>getBanUsername</tabTrigger>
+	<description>getBanUsername Mta:Ban</description>
+	<scope>source.lua</scope>
+	
+</snippet>

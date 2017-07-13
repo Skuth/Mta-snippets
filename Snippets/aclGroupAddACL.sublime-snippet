@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[aclGroupAddACL(${1:theGroup}, ${2:theAcl})]]></content>
+
+	<tabTrigger>aclGroupAddACL</tabTrigger>
+	<description>aclGroupAddACL Mta:Acl</description>
+	<scope>source.lua</scope>
+	
+</snippet>

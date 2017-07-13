@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[getBanIP(${1:theBan})]]></content>
+
+	<tabTrigger>getBanIP</tabTrigger>
+	<description>getBanIP Mta:Ban</description>
+	<scope>source.lua</scope>
+	
+</snippet>

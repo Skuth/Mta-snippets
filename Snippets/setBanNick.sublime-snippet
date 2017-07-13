@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[setBanNick(${1:theBan}, ${2:theNick})]]></content>
+
+	<tabTrigger>setBanNick</tabTrigger>
+	<description>setBanNick Mta:Ban</description>
+	<scope>source.lua</scope>
+	
+</snippet>

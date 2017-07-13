@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[aclRemoveRight(${1:theAcl}, ${2:rightName})]]></content>
+
+	<tabTrigger>aclRemoveRight</tabTrigger>
+	<description>aclRemoveRight Mta:Acl</description>
+	<scope>source.lua</scope>
+	
+</snippet>

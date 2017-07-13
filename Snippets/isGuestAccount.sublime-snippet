@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[isGuestAccount(${1:theAccount})]]></content>
+
+	<tabTrigger>isGuestAccount</tabTrigger>
+	<description>isGuestAccount Mta:Account</description>
+	<scope>source.lua</scope>
+	
+</snippet>

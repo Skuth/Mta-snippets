@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[addAccount(${1:username}, ${2:password})]]></content>
+
+	<tabTrigger>addAccount</tabTrigger>
+	<description>addAccount Mta:Account</description>
+	<scope>source.lua</scope>
+
+</snippet>

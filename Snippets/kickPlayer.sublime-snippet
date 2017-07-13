@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[kickPlayer(${1:kickedPlayer}, ${2:responsiblePlayer}, ${3:reason})]]></content>
+
+	<tabTrigger>kickPlayer</tabTrigger>
+	<description>kickPlayer Mta:Ban</description>
+	<scope>source.lua</scope>
+	
+</snippet>

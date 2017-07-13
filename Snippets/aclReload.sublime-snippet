@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[aclReload(${1})]]></content>
+
+	<tabTrigger>aclReload</tabTrigger>
+	<description>aclReload Mta:Acl</description>
+	<scope>source.lua</scope>
+	
+</snippet>

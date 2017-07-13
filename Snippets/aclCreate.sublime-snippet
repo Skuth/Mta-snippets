@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[aclCreate(${1:aclName})]]></content>
+
+	<tabTrigger>aclCreate</tabTrigger>
+	<description>aclCreate Mta:Acl</description>
+	<scope>source.lua</scope>
+	
+</snippet>

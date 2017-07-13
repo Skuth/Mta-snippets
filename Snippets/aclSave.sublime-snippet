@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[aclSave(${1})]]></content>
+
+	<tabTrigger>aclSave</tabTrigger>
+	<description>aclSave Mta:Acl</description>
+	<scope>source.lua</scope>
+	
+</snippet>

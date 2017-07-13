@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[reloadBans()]]></content>
+
+	<tabTrigger>reloadBans</tabTrigger>
+	<description>reloadBans Mta:Ban</description>
+	<scope>source.lua</scope>
+	
+</snippet>

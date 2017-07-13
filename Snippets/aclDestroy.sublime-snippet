@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[aclDestroy(${1:theACL})]]></content>
+
+	<tabTrigger>aclDestroy</tabTrigger>
+	<description>aclDestroy Mta:Acl</description>
+	<scope>source.lua</scope>
+	
+</snippet>

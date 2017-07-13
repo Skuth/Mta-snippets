@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[getBanTime(${1:theBan})]]></content>
+
+	<tabTrigger>getBanTime</tabTrigger>
+	<description>getBanTime Mta:Ban</description>
+	<scope>source.lua</scope>
+	
+</snippet>

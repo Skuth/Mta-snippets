@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[getAccountPlayer(${1:theAccount})]]></content>
+
+	<tabTrigger>getAccountPlayer</tabTrigger>
+	<description>getAccountPlayer Mta:Account</description>
+	<scope>source.lua</scope>
+	
+</snippet>

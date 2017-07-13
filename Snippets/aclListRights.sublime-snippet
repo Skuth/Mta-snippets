@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[aclListRights(${1:theACL}, ${2:allowedType})]]></content>
+
+	<tabTrigger>aclListRights</tabTrigger>
+	<description>aclListRights Mta:Acl</description>
+	<scope>source.lua</scope>
+	
+</snippet>

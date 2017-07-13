@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[aclGet(${1:aclName})]]></content>
+
+	<tabTrigger>aclGet</tabTrigger>
+	<description>aclGet Mta:Acl</description>
+	<scope>source.lua</scope>
+	
+</snippet>

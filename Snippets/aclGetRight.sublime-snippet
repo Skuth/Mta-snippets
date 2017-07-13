@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[aclGetRight(${1:theAcl}, ${2:rightName})]]></content>
+
+	<tabTrigger>aclGetRight</tabTrigger>
+	<description>aclGetRight Mta:Acl</description>
+	<scope>source.lua</scope>
+	
+</snippet>

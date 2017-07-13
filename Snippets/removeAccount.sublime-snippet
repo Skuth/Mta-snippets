@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[removeAccount(${1:theAccount})]]></content>
+
+	<tabTrigger>removeAccount</tabTrigger>
+	<description>removeAccount Mta:Account</description>
+	<scope>source.lua</scope>
+	
+</snippet>

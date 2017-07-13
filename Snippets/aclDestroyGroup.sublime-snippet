@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[aclDestroyGroup(${1:aclGroup})]]></content>
+
+	<tabTrigger>aclDestroyGroup</tabTrigger>
+	<description>aclDestroyGroup Mta:Acl</description>
+	<scope>source.lua</scope>
+	
+</snippet>

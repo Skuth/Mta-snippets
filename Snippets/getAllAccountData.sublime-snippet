@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[getAllAccountData(${1:theAccount})]]></content>
+
+	<tabTrigger>getAllAccountData</tabTrigger>
+	<description>getAllAccountData Mta:Account</description>
+	<scope>source.lua</scope>
+	
+</snippet>

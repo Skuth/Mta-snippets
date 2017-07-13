@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[copyAccountData(${1:theAccount}, ${2:fromAccount})]]></content>
+
+	<tabTrigger>copyAccountData</tabTrigger>
+	<description>copyAccountData Mta:Account</description>
+	<scope>source.lua</scope>
+	
+</snippet>

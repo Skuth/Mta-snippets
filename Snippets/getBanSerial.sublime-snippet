@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[getBanSerial(${1:theBan})]]></content>
+
+	<tabTrigger>getBanSerial</tabTrigger>
+	<description>getBanSerial Mta:Ban</description>
+	<scope>source.lua</scope>
+	
+</snippet>

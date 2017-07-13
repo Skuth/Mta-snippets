@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[getBanReason(${1:theBan})]]></content>
+
+	<tabTrigger>getBanReason</tabTrigger>
+	<description>getBanReason Mta:Ban</description>
+	<scope>source.lua</scope>
+	
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[isBan(${1:theBan})]]></content>
+
+	<tabTrigger>isBan</tabTrigger>
+	<description>isBan Mta:Ban</description>
+	<scope>source.lua</scope>
+	
+</snippet>

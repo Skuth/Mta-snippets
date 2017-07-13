@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[hasObjectPermissionTo(${1:theObject}, ${2:theAction}, ${3:defaultPermission = true/false})]]></content>
+
+	<tabTrigger>hasObjectPermissionTo</tabTrigger>
+	<description>hasObjectPermissionTo Mta:Acl</description>
+	<scope>source.lua</scope>
+	
+</snippet>
