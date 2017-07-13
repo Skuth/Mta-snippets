@@ -2,6 +2,7 @@
 
 ```sh
 <snippet>
+
 	<content><![CDATA[snippetName(${1})]]></content>
 
 	<tabTrigger>snippetName</tabTrigger>
