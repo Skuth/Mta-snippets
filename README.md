@@ -5,6 +5,7 @@ It's a plugin to add snippets of the Mta documentation for the Lua syntax in sub
 ## Snippets already added
 
 Account
+
 	- addAccount(username, password)
 	- copyAccountData(theAccount, fromAccount)
 	- getAccount(username, password)
@@ -24,6 +25,7 @@ Account
 	- setAccountPassword(theAccount, password)
   
 Acl
+
 	- aclCreate(aclName)
 	- aclCreateGroup(groupName)
 	- aclDestroy(theACL)
@@ -49,6 +51,7 @@ Acl
 	- isObjectInACLGroup(theObject, theGroup)
   
 Ban
+
 	- addBan(IP, username, serial, player, reason, seconds = 0)
 	- banPlayer(IP = true/false, username = true/false, serial = true/false, player, reason = nil, seconds = 0)
 	- getBanAdmin(theBan)
