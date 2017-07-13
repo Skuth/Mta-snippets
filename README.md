@@ -2,6 +2,8 @@
 
 It's a plugin to add snippets of the Mta documentation for the Lua syntax in sublime text 3
 
+you can find the classes [here](https://wiki.multitheftauto.com/wiki/MTA_Classes)
+
 ## Snippets already added
 
 ## Account
