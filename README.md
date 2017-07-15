@@ -22,7 +22,7 @@ you can find the classes [here](https://wiki.multitheftauto.com/wiki/MTA_Classes
 
 ## License
 
-[MIT](LICENSE)
+- [MIT](LICENSE)
 
 ## Snippets already added
 
