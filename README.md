@@ -18,7 +18,7 @@ you can find the classes [here](https://wiki.multitheftauto.com/wiki/MTA_Classes
 
 ## Version
 
-Alpha
+Development
 
 ## License
 
